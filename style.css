@@ -69,7 +69,7 @@ have a 16-pixels distance between its content, that is icon and text, and its ow
 }
 
 div button img {
-    display: block;
+    display:flex;
     margin-left: auto;
     margin-right: auto;
     margin-top: 16px;
@@ -84,7 +84,7 @@ div button img {
 }
 
 #thirdbutton {
-    margin-left: -16px !important;
+    margin-left: -16px;
 }
 /*messages*/
 /*Message container (width 80%; margin-bottom 8px)
