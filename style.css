@@ -63,7 +63,7 @@ have a 16-pixels distance between its content, that is icon and text, and its ow
     padding-bottom: 16px;
     max-height: 72px;
     border: none;
-    width: 33vw;
+    width: 30vw;
     font-size: 13px;
     line-height: 28px;
 }
@@ -80,11 +80,11 @@ div button img {
 }
 
 #secondbutton {
-    margin-left: -12px;
+    margin-left: -16px;
 }
 
 #thirdbutton {
-    margin-left: -20px;
+    margin-left: -25px;
 }
 /*messages*/
 /*Message container (width 80%; margin-bottom 8px)
