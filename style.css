@@ -33,6 +33,7 @@ ul {
     /*channels list*/
     list-style-type: none;
     background-color: white;
+    margin-left: 0px;
 }
 
 li {
@@ -59,7 +60,7 @@ have a 16-pixels distance between its content, that is icon and text, and its ow
     margin: auto;
     padding-top: 2px;
     padding-bottom: 16px;
-    height: max72px;
+    max-height: 72px;
     border: none;
     width: 33vw;
     font-size: 13px;
