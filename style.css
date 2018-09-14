@@ -181,7 +181,7 @@ h1 {
 ul {
     /*channels list*/
     list-style-type: none;
-    background-color: white;
+    background-color: #F5F5F5;
 }
 
 li {
@@ -189,6 +189,7 @@ li {
     font-size: 16px;
     border: 1px solid;
     border-color: #F5F5F5;
+    background-color: white;
 }
 
 #selectedchannel {
@@ -230,11 +231,11 @@ div button img {
 }
 
 #secondbutton {
-    margin-left: -8px;
+    margin-left: 0px;
 }
 
 #thirdbutton {
-    margin-left: -16px;
+    margin-left: 0px;
 }
 
 
